@@ -1,0 +1,11 @@
+campaign_id,client_id,campaign_name,campaign_type,start_date,end_date,budget
+1,5,Campaign_1,PR Event,2024-04-01,2024-08-30,28467
+2,2,Campaign_2,PR Event,2024-02-01,2024-08-30,28314
+3,3,Campaign_3,Google Ads,2024-02-01,2024-09-30,59635
+4,5,Campaign_4,Influencer,2024-02-01,2024-08-30,52651
+5,4,Campaign_5,PR Event,2024-03-01,2024-08-30,54668
+6,5,Campaign_6,Google Ads,2024-01-01,2024-09-30,91295
+7,1,Campaign_7,Google Ads,2024-03-01,2024-09-30,54041
+8,5,Campaign_8,Social Media,2024-05-01,2024-07-30,61746
+9,3,Campaign_9,Google Ads,2024-01-01,2024-08-30,13140
+10,2,Campaign_10,Social Media,2024-05-01,2024-07-30,86315
